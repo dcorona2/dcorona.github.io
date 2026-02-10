@@ -1,0 +1,57 @@
+img{
+    height:300px;
+    width:60%;
+}
+body{
+    text-align:center;
+}
+nav a{
+    padding:0px 50px;
+}
+section{
+    background-color:rgb(22, 23, 63);
+    border:dotted red;
+    height: 200px;
+    width:60%;
+    margin:auto;
+}
+p{
+    float:left;
+    padding:10px;
+    color:white;
+}
+nav{
+    border:dotted red;
+    background-color: rgb(22, 23, 63);
+    color:white;
+    width:800px;
+    margin:auto;
+}
+nav a:hover{
+    background-color:azure;
+    color:red;
+}
+h1 {
+  text-align:center;
+  background-color: rgb(22, 23, 63);
+  border:dotted red;
+  color:white;
+  width:200px;
+  margin:auto;
+}
+h3 {
+    text-align:center;
+    background-color:rgb(22, 23, 63);
+    border:dotted red;
+    color:white;
+    width:200px;
+    margin:auto;
+}
+h2{
+    text-align:center;
+    background-color:rgb(22, 23, 63);
+    border:dotted red;
+    color:white;
+    width:400px;
+    margin:auto;  
+}

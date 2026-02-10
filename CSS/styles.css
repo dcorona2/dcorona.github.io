@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+button.post{
+
+    border-radius:5px;
+    background-color:white;
+}
+nav.post{
+    float:right;
+}
+img.Darian {
+    margin:auto;
+    
+}
+  h2.A{
+    text-align:center;
+    color:black;
+  }
+  section.AA{
+    float:left;
+    width:210px;
+  }
+  button.AA{
+    height:100px;
+    width:200px;
+    border-radius:15px;
+    background-color:white;
+    font-weight:bold;
+  }
+  footer{
+    align-items: center;
+  }
+  h2.pop{
+    text-align: center;
+    color:black;
+  }
+  button.foot{
+    margin:auto;
+    border-radius:5px;
+    background-color:white;
+    font-weight:bold;
+    width:150px;
+  }

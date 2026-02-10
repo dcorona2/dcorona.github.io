@@ -1,0 +1,11 @@
+img {
+    background-color: rgb(74, 64, 45);
+    padding: 50px;
+    margin: 50px;
+    border-radius: 50%;
+}
+div {
+    background-color: rgb(34, 45, 114);
+    width: 50%;
+    border-radius: 10%;
+}

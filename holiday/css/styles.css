@@ -1,0 +1,43 @@
+h1{
+    text-align:center;
+}
+h1.yes{
+    background-color:white;
+    color:black;
+}
+section{
+    color:white;
+    background-color:rgb(100, 100, 255);
+    height:500px;
+}
+section.o{
+background-color: rgb(6, 6, 22);
+}
+div.diagonal{
+    width:0px;
+    height:0px;
+    Border-right:100vw solid transparent;
+    border-bottom:13.9vw solid rgb(6, 6, 22);
+    margin-top:-13.9vw;
+}
+section.o h2{
+    margin-top:-13.9w;
+    text-align:right;
+}
+img{
+    width:250px;
+}
+h1.center{
+    position:absolute;
+    font-size:5cm;
+    top:15vh;
+    left:40vw;
+    color:white;
+}
+img.aaaa{
+    float:right;
+    height:350px;
+}
+h2{
+    font-size: xx-large;
+}
