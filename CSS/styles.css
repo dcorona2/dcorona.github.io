@@ -53,3 +53,7 @@ a.btn{
   background-color: aquamarine;
   display: block;  
 }
+img{
+    width: 200px;
+    height:75px;
+}
